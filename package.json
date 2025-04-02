@@ -1,0 +1,18 @@
+{
+  "name": "mocha-test-suite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Chandrakanta",
+  "license": "ISC",
+  "description": "Product API Test Suite",
+  "devDependencies": {
+    "chai": "^4.3.8",
+    "chai-http": "^4.3.0",
+    "mocha": "^10.2.0"
+  }
+}
