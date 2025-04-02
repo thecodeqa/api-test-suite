@@ -25,16 +25,16 @@ This project contains various test cases in the Test Suite for the **Products AP
 ## Screenshots of the Test Cases Execution
 
 Part-1
-![Product Screenshot-1](screenshots/Test Cases Execution Attempt-1 part-1.png)
+![Product Screenshot-1](screenshots/Test-Cases-Execution-Attempt-1-part-1.png)
 
 Part-2
-![Product Screenshot-2](screenshots/Test Cases Execution Attempt-1 part-2.png)
+![Product Screenshot-2](screenshots/Test-Cases-Execution-Attempt-1-part-2.png)
     
 Part-3
-![Product Screenshot-3](screenshots/Test Cases Execution Attempt-1 part-3.png)
+![Product Screenshot-3](screenshots/Test-Cases-Execution-Attempt-1-part-3.png)
 
 Part-4
-![Product Screenshot-4](screenshots/Test Cases Execution Attempt-1 part-4.png)
+![Product Screenshot-4](screenshots/Test-Cases-Execution-Attempt-1-part-4.png)
 
 Part-5
-![Product Screenshot-5](screenshots/Test Cases Execution Attempt-1 part-5.png)
+![Product Screenshot-5](screenshots/Test-Cases-Execution-Attempt-1-part-5.png)
