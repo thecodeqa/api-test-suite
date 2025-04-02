@@ -38,3 +38,10 @@ Part-4
 
 Part-5
 ![Product Screenshot-5](screenshots/Test-Cases-Execution-Attempt-1-part-5.png)
+
+
+## Observations
+
+1. High latency is observed in the HTTP Response time.
+2. The APIs including health check API are unstable where we see that the failure response codes are 500, 429, 400 
+3. In the DELETE API operation, we see that sometimes it retuns null in the Response message where the Product ID is not found.
